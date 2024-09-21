@@ -24,9 +24,9 @@ function wishMe() {
   }
 }
 
-//  window.addEventListener('load',()=>{
-//     wishMe()
-//  })
+  window.addEventListener('load',()=>{
+     wishMe()
+  })
 
 /* speech recognitation is a function for what we speaak and gave s data in form of api */
 
