@@ -19,7 +19,7 @@ body {
 }
 
 #logo {
-    width: 30vw;
+    width: 20vw;
 }
 
 h1 {
@@ -68,7 +68,7 @@ h1 {
 /* Media Queries for responsiveness */
 @media (max-width: 600px) {
     #logo {
-        width: 20vw; /* Adjust logo size for smaller screens */
+        width: 40vw; /* Adjust logo size for smaller screens */
         /* vh = viewport width */
     }
     
